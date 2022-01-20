@@ -4,7 +4,7 @@
 # Note Taker Application
 <div>
    <p>
-    View application functionality.<a href="https://drive.google.com/file/d/15nihcAGHA_JD6D9r8N3iVomRRwG42VPt/view"> Walkthrough Video</a>
+    View application functionality.<a href="https://drive.google.com/file/d/1JZoXdV5TGACZV1o-KaYViCPTQEoKmXEf/view"> Walkthrough Video</a>
   </p>
 </div>
 
