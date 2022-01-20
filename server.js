@@ -1,16 +1,23 @@
+
+// Dependencies
 const express = require("express");
 
+// Express configuration
+//Tells node that we are creating an 'express' server
 const app = express();
 
+// Sets an initial port.
 const PORT = process.env.PORT || 3001;
 
-app.use(express.urlencoded({extended: true,}))
+// Sets up the Express app to handle data parsing
+app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static("public"));
 
-require('./routes/apiRoutes.js');
-require('./routes/htmlRoutes.js');
+// ROUTES
+require('./routes/apiRoutes')(app);
+require('./routes/htmlRoutes')(app);
 
-app.listen(PORT, function () {
-  console.log(`Server start on PORT: ${PORT}`);
+app.listen(PORT, function() {
+    console.log(`App listening on PORT: ${PORT}`);
 });
