@@ -17,7 +17,8 @@
 * [Credits](#credits)
 * [Questions](#questions)
 
-## Description: This note taker application allows a user to add new notes, view saved notes and delete notes as desired. This app uses an express backend and note data is stores in a JSON file.
+## Description: 
+This note taker application allows a user to add new notes, view saved notes and delete notes as desired. This app uses an express backend and note data is stores in a JSON file.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
