@@ -7,7 +7,9 @@
     View application functionality.<a href="https://drive.google.com/file/d/1JZoXdV5TGACZV1o-KaYViCPTQEoKmXEf/view"> Walkthrough Video</a><br>
     
 [Deployed Application on Heroku](https://note-taker-sba.herokuapp.com/notes)
-    
+      
+[GitHub Pages](https://nparker80.github.io/note-taker-SBA/)
+     
 [GitHub Repository](https://github.com/nparker80/Team-Profile-Generator)
       
   </p>
