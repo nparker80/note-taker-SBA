@@ -22,8 +22,13 @@
 ## Description: 
 This note taker application allows a user to add new notes, view saved notes and delete notes as desired. This app uses an express backend and note data is stored in a JSON file.
 
+The welcome page where you can start the note taker application.
 ![Welcome](public/assets/images/noteTaker-Welcome.png)
+<br>
+Sample of notes added
 ![Add](public/assets/images/noteTaker-Add.png)
+<br>
+Sample of note deleted
 ![Delete](public/assets/images/noteTaker-Delete.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
