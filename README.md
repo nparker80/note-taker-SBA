@@ -22,6 +22,8 @@
 ## Description: 
 This note taker application allows a user to add new notes, view saved notes and delete notes as desired. This app uses an express backend and note data is stored in a JSON file.
 
+![The San Juan Mountains are beautiful!](/assets/images/noteTaker-Welcome.png "San Juan Mountains")
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Before attempting to use this project, install the following on your computer:
