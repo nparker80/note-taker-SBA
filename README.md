@@ -5,7 +5,10 @@
 <div>
    <p>
     View application functionality.<a href="https://drive.google.com/file/d/1JZoXdV5TGACZV1o-KaYViCPTQEoKmXEf/view"> Walkthrough Video</a><br>
-    Heroku: https://note-taker-sba.herokuapp.com/notes
+    
+[Deployed Application on Heroku](https://note-taker-sba.herokuapp.com/notes)
+    
+[GitHub Repository](https://github.com/nparker80/Team-Profile-Generator)
       
   </p>
 </div>
@@ -62,10 +65,6 @@ This will start the localhost on port 3001.
 - [Javascript](https://www.javascript.com)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
-
-## Project Link
-
-[Portfolio Repository](https://github.com/nparker80/Team-Profile-Generator)
 
 ## License 
 This project is licensed under MIT
