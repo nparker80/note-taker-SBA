@@ -6,7 +6,7 @@
    <p>
     View application functionality.<a href="https://drive.google.com/file/d/1JZoXdV5TGACZV1o-KaYViCPTQEoKmXEf/view"> Walkthrough Video</a><br>
     
-[Deployed Application on Heroku](https://note-taker-sba.herokuapp.com/notes)
+[Deployed Application on Heroku](https://note-taker-sba.herokuapp.com/)
       
 [GitHub Pages](https://nparker80.github.io/note-taker-SBA/)
      
